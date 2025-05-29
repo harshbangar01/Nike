@@ -135,3 +135,7 @@ productButton.addEventListener("click", () => {
 close.addEventListener("click", () => {
   payment.style.display = "none";
 });
+
+document.getElementById('payButton').addEventListener('click', function() {
+      alert('Payment Done');
+    });
