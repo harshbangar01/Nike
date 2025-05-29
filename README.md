@@ -1,2 +1,2 @@
-# ScholarWords
-A dictionary app
+# Nike
+A shoe app
