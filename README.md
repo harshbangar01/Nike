@@ -1,0 +1,2 @@
+# ScholarWords
+A dictionary app
